@@ -1,2 +1,6 @@
+num1 = 2
+num2 = 31
 
-// Write your code here
+function multiply() {
+    2*31
+}
